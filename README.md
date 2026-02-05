@@ -18,10 +18,9 @@ normalized spacings δ = (γ_{n+1}-γ_n)/⟨spacing⟩ when grouped by
 δ(r,m) = A · sin(2π·r/m + φ)
 r = floor(γ · log γ) mod m
 
-text
+
 
 ## Quick Reproducibility
-```bash
-pip install numpy scipy matplotlib
+
 # Download Odlyzko's 2M zeros: http://www.dtc.umn.edu/~odlyzko/zeta_tables/
-python 3adicStructure.py
+# Download 3adicStructure.py
