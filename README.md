@@ -1,3 +1,5 @@
+Check: riemann_modular_v5_2_final_20260205_070819.
+
 📊 HIGHLIGHTS 
 ✅ 2M Odlyzko zeros analyzed 
 ✅ Monte Carlo validated (amplitude tests) 
