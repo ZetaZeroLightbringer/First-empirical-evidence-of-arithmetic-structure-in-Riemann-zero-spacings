@@ -1,4 +1,4 @@
-Check: riemann_modular_v5_2_final_20260205_070819.
+Check: riemann_modular_v5_2_final_20260205_070819. and Riemann_Modular_V5_2(Last).py the other stuff is how i found my way here.
 
 📊 HIGHLIGHTS 
 ✅ 2M Odlyzko zeros analyzed 
