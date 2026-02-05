@@ -32,6 +32,7 @@ Jennings:γ_{n+1} = γ_n + spacing + 1.52·δ [RMSE = 0.249]
 > Collapses at m≥11 (R²<0.08) → **discrete symmetry boundary**
 
 ## 🧪 **Reproducibility (5 min)**
-http://www.dtc.umn.edu/~odlyzko/zeta_tables/zeros1 -O odlyzko.txt
+http://www.dtc.umn.edu/~odlyzko/zeta_tables/zeros1
+or download odlyzko.txt
 pip install numpy scipy matplotlib
 python 3adicStructure.py
