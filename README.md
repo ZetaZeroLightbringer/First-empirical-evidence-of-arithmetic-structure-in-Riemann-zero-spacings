@@ -1,22 +1,18 @@
-📊 HIGHLIGHTS
-✅ 2M Odlyzko zeros analysiert
-
-✅ Monte Carlo validiert (Amplitude-Tests)
-
-✅ 4.5σ statistische Power (Fisher's method)
-
-✅ Funktionale Gleichung erklärt m=2
-
-✅ Reproduzierbarer Code + JSON
-
-✅ Paper-Struktur Nature-Style
+📊 HIGHLIGHTS 
+✅ 2M Odlyzko zeros analyzed 
+✅ Monte Carlo validated (amplitude tests) 
+✅ 4.5σ statistical power (Fisher's method) 
+✅ Functional equation explains m=2 
+✅ Reproducible code + JSON 
+✅ Paper structure Nature Style
 
 🎯 KEY FINDINGS
 Modulus	R²	Monte Carlo p-value	Interpretation
 m=2	1.0000	0.000%	Binary building block (ζ(s)=ζ(1-s))
 m=9	0.5934	3.1%	9-adic resonance (UNEXPECTED!)
 m=3	1.0000	67.5%	Trivial (overdetermined)
-📜 ABSTRACT
+
+
 We report the discovery of arithmetic modulations in the spacing distribution of 2 million Riemann zeta zeros. The modulus $m=2$ exhibits perfect anti-correlation ($R^2=1.0000$, Monte Carlo $p<0.001$), reflecting the fundamental pairing structure $\zeta(s)=\zeta(1-s)$. This binary foundation transfers to a significant 9-adic resonance ($m=9$, $R^2=0.5934$, $p=0.031$) rather than following the expected 3-adic hierarchy. Prime moduli $m=5,7$ show intermediate strength, while composites exhibit interference effects ($m=6$) and chaos transition beyond $m=11$. The combined significance is $4.5\sigma$ ($p=7.7\times10^{-6}$), demonstrating non-trivial arithmetic structure in the GUE statistics of $\zeta(s)$ zeros.
 
 📈 RESULTS
